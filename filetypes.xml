@@ -1,0 +1,7 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="button_states" type="XML" />
+    </extensionMap>
+  </component>
+</application>
