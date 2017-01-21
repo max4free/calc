@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LessonContextMenu</string>
+    <string name="red">красный цвет</string>
+    <string name="green">зеленый цвет</string>
+    <string name="blue">синий цвет</string>
+    <string name="little">30 cm</string>
+    <string name="medium">36 cm</string>
+    <string name="big">45 cm</string>
+</resources>
