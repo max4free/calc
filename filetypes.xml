@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping pattern="button_states" type="XML" />
     </extensionMap>
   </component>
